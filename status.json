@@ -5,9 +5,9 @@
     "force_close": true
   },
   "notification": {
-    "enabled": false,
+    "enabled": true,
     "title": "📢 System Notification",
-    "message": "This notification is currently disabled.",
+    "message": "This is a test notification to check if the system is working correctly. Please press OK to continue.",
     "button_text": "OK"
   },
   "update": {
