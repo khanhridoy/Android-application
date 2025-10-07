@@ -6,9 +6,9 @@
   },
   "notification": {
     "enabled": true,
-    "title": "📢 Important Notice",
-    "message": "Our servers will be upgraded tonight.",
-    "button_text": "OK"
+    "title": "✅ সিস্টেম টেস্ট",
+    "message": "আপনি যদি এই বার্তাটি দেখতে পান, তার মানে আপনার অ্যাপের রিমোট নোটিফিকেশন সিস্টেম সঠিকভাবে কাজ করছে।",
+    "button_text": "দারুণ!"
   },
   "update": {
     "enabled": false,
@@ -19,5 +19,5 @@
     "force_update": false
   },
   "sequence": ["notification", "update", "maintenance"],
-  "last_updated": "2025-10-07T12:00:00Z"
+  "last_updated": "2025-10-07T13:30:00Z"
 }
