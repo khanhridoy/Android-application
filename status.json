@@ -14,7 +14,7 @@
     "enabled": true,
     "title": "🚀 Critical Update Required!",
     "message": "A critical update to version 3.0 is available. This update includes important security patches and performance boosts. To continue using the app, you must install this update.",
-    "version": 3,
+    "version": 1,
     "update_url": "https://github.com/your-username/your-repo/releases/download/v3.0/app.apk",
     "force_update": true
   },
