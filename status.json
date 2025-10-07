@@ -1,5 +1,23 @@
 {
-  "maintenance": true,
-  "notification": true,
-  "update": false
+  "maintenance": {
+    "enabled": false,
+    "message": "🛠️ We’re currently under maintenance. Please try again later.",
+    "force_close": true
+  },
+  "notification": {
+    "enabled": true,
+    "title": "📢 Important Notice",
+    "message": "Our servers will be upgraded tonight.",
+    "button_text": "OK"
+  },
+  "update": {
+    "enabled": false,
+    "title": "🚀 New Update Available!",
+    "message": "Version 3.0 is here! Update now for new features.",
+    "version": 3,
+    "update_url": "https://github.com/your-username/your-repo/releases/download/v3.0/app.apk",
+    "force_update": false
+  },
+  "sequence": ["notification", "update", "maintenance"],
+  "last_updated": "2025-10-07T12:00:00Z"
 }
