@@ -5,7 +5,7 @@
     "force_close": true
   },
   "notification": {
-    "enabled": false,
+    "enabled": true,
     "title": "📢 System Notification",
     "message": "This is a test notification to check if the system is working correctly. Please press OK to continue.",
     "button_text": "OK"
