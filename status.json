@@ -14,8 +14,8 @@
     "enabled": true,
     "title": "🚀 Critical Update Required!",
     "message": "A critical update is available.",
-    "version": 2,
-    "update_url": "https://github.com/your-username/your-repo/releases/download/v2.0/app.apk",
+    "version": 1,
+    "update_url": "https://github.com/your-username/your-repo/releases/download/v1.0/app.apk",
     "force_update": true
   },
   "sequence": ["notification", "update", "maintenance"],
