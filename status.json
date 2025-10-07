@@ -1,21 +1,21 @@
 {
   "maintenance": {
-    "enabled": true,
+    "enabled": false,
     "message": "🛠️ We’re currently under maintenance. Please try again later.",
     "force_close": true
   },
   "notification": {
-    "enabled": true,
+    "enabled": false,
     "title": "📢 System Notification",
-    "message": "This is a test notification to check if the system is working correctly. Please press OK to continue.",
+    "message": "This notification is currently disabled.",
     "button_text": "OK"
   },
   "update": {
     "enabled": true,
     "title": "🚀 Critical Update Required!",
-    "message": "A critical update is available.",
-    "version": 1,
-    "update_url": "https://github.com/your-username/your-repo/releases/download/v1.0/app.apk",
+    "message": "A critical update to version 3.0 is available. This update includes important security patches and performance boosts. To continue using the app, you must install this update.",
+    "version": 3,
+    "update_url": "https://github.com/your-username/your-repo/releases/download/v3.0/app.apk",
     "force_update": true
   },
   "sequence": ["notification", "update", "maintenance"],
