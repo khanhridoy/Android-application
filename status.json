@@ -1,13 +1,13 @@
 {
   "maintenance": {
     "enabled": true,
-    "message": "🛠️ We’re currently under maintenance. Please try again later.",
+    "message": "🛠️ We are currently under maintenance to improve our services. The app will be back online shortly. Please try again later.",
     "force_close": true
   },
   "notification": {
-    "enabled": true,
+    "enabled": false,
     "title": "📢 Important Notice",
-    "message": "এটি একটি লম্বা এবং পরিবর্তিত বার্তা। আমরা দেখতে চাইছি অ্যাপটি কীভাবে একাধিক লাইনের বড় টেক্সট প্রদর্শন করে। আমাদের সিস্টেম আপগ্রেডের কারণে সাময়িক অসুবিধার জন্য আমরা আন্তরিকভাবে দুঃখিত। 😊",
+    "message": "Our servers will be upgraded tonight.",
     "button_text": "OK"
   },
   "update": {
@@ -19,5 +19,5 @@
     "force_update": false
   },
   "sequence": ["notification", "update", "maintenance"],
-  "last_updated": "2025-10-07T14:15:00Z"
+  "last_updated": "2025-10-07T14:30:00Z"
 }
