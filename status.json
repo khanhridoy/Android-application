@@ -1,6 +1,6 @@
 {
   "maintenance": {
-    "enabled": false,
+    "enabled": true,
     "message": "🛠️ We’re currently under maintenance. Please try again later.",
     "force_close": true
   },
@@ -19,5 +19,5 @@
     "force_update": false
   },
   "sequence": ["notification", "update", "maintenance"],
-  "last_updated": "2025-10-07T12:00:00Z"
+  "last_updated": "2025-10-07T14:00:00Z"
 }
