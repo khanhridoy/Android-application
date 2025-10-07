@@ -7,15 +7,15 @@
   "notification": {
     "enabled": false,
     "title": "📢 System Notification",
-    "message": "This notification is currently disabled.",
+    "message": "This is a test notification to check if the system is working correctly. Please press OK to continue.",
     "button_text": "OK"
   },
   "update": {
     "enabled": true,
     "title": "🚀 Critical Update Required!",
-    "message": "A critical update to version 3.0 is available. This update includes important security patches and performance boosts. To continue using the app, you must install this update.",
-    "version": 3,
-    "update_url": "https://github.com/your-username/your-repo/releases/download/v3.0/app.apk",
+    "message": "A critical update is available.",
+    "version": 2,
+    "update_url": "https://github.com/your-username/your-repo/releases/download/v2.0/app.apk",
     "force_update": true
   },
   "sequence": ["notification", "update", "maintenance"],
