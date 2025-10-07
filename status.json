@@ -11,7 +11,7 @@
     "button_text": "OK"
   },
   "update": {
-    "enabled": false,
+    "enabled": true,
     "title": "🚀 Critical Update Required!",
     "message": "A critical update to version 3.0 is available. This update includes important security patches and performance boosts. To continue using the app, you must install this update.",
     "version": 3,
@@ -19,5 +19,5 @@
     "force_update": true
   },
   "sequence": ["notification", "update", "maintenance"],
-  "last_updated": "2025-10-07T15:30:00Z"
+  "last_updated": "2025-10-07T15:15:00Z"
 }
