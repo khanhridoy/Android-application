@@ -5,19 +5,19 @@
     "force_close": true
   },
   "notification": {
-    "enabled": true,
-    "title": "📢 Important Notice",
-    "message": "This is a notification in English. The update dialog will appear after this.",
+    "enabled": false,
+    "title": "📢 System Notification",
+    "message": "This notification is currently disabled.",
     "button_text": "OK"
   },
   "update": {
     "enabled": true,
-    "title": "🚀 New Update Available!",
-    "message": "Version 3.0 is here! Update now for new features and improvements.",
+    "title": "🚀 Critical Update Required!",
+    "message": "A critical update to version 3.0 is available. This update includes important security patches and performance boosts. To continue using the app, you must install this update.",
     "version": 3,
     "update_url": "https://github.com/your-username/your-repo/releases/download/v3.0/app.apk",
-    "force_update": false
+    "force_update": true
   },
   "sequence": ["notification", "update", "maintenance"],
-  "last_updated": "2025-10-07T15:00:00Z"
+  "last_updated": "2025-10-07T15:15:00Z"
 }
