@@ -1,11 +1,11 @@
 {
   "maintenance": {
-    "enabled": false,
+    "enabled": true,
     "message": "🛠️ We’re currently under maintenance. Please try again later.",
     "force_close": true
   },
   "notification": {
-    "enabled": true,
+    "enabled": false,
     "title": "📢 System Notification",
     "message": "This is a test notification to check if the system is working correctly. Please press OK to continue.",
     "button_text": "OK"
