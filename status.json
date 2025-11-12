@@ -13,7 +13,7 @@
   "update": {
     "enabled": true,
     "title": "🚀 Critical Update Required!",
-    "message": "A critical update is available.",
+    "message": "অ্যাপের একটি গুরুত্বপূর্ণ আপডেট পাওয়া গেছে। দয়া করে অবিলম্বে আপডেট সম্পন্ন করুন যাতে অ্যাপটি সঠিকভাবে কাজ করে।",
     "version": 1,
     "update_url": "https://github.com/your-username/your-repo/releases/download/v1.0/app.apk",
     "force_update": true
