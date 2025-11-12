@@ -7,17 +7,17 @@
   "notification": {
     "enabled": true,
     "title": "📢 System Notification",
-    "message": "This is a test notification to check if the system is working correctly. Please press OK to continue.",
+    "message": "Welcome to Omniscient News! If you face any problems while using it, please let us know via feedback.",
     "button_text": "OK"
   },
   "update": {
     "enabled": true,
     "title": "🚀 Critical Update Required!",
-    "message": "Welcome to Omniscient News! This update brings new newspaper editing features, overall performance optimization, and infrastructure improvements. If you face any issues while using it, please let us know.",
+    "message": "A new version is available! This update includes bug fixes and performance improvements to enhance your experience. Please update now.",
     "version": 2,
     "update_url": "https://github.com/khanhridoy/Android-application/releases/download/V2/app-debug-10.apk",
-    "force_update": true
+    "force_update": false
   },
   "sequence": ["notification", "update", "maintenance"],
-  "last_updated": "2025-11-12T18:31:46Z"
+  "last_updated": "2025-11-12T18:36:00Z"
 }
