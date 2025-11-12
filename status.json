@@ -15,9 +15,9 @@
     "title": "🚀 Critical Update Required!",
     "message": "A critical update is available.",
     "version": 2,
-    "update_url": "https://github.com/khanhridoy/Android-application/releases/download/V2/app-debug-6.apk",
+    "update_url": "https://github.com/khanhridoy/Android-application/releases/download/V2/app-debug-10.apk",
     "force_update": true
   },
   "sequence": ["notification", "update", "maintenance"],
-  "last_updated": "2025-11-12T14:57:00Z"
+  "last_updated": "2025-11-12T18:27:18Z"
 }
