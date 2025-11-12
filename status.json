@@ -1,23 +1,23 @@
 {
-  "maintenance": {
-    "enabled": true,
-    "message": "🛠️ We’re currently under maintenance. Please try again later.",
-    "force_close": true
-  },
-  "notification": {
-    "enabled": true,
-    "title": "📢 System Notification",
-    "message": "This is a test notification to check if the system is working correctly. Please press OK to continue.",
-    "button_text": "OK"
-  },
-  "update": {
-    "enabled": true,
-    "title": "🚀 Critical Update Required!",
-    "message": "অ্যাপের একটি গুরুত্বপূর্ণ আপডেট পাওয়া গেছে। দয়া করে অবিলম্বে আপডেট সম্পন্ন করুন যাতে অ্যাপটি সঠিকভাবে কাজ করে।",
-    "version": 1,
-    "update_url": "https://github.com/your-username/your-repo/releases/download/v1.0/app.apk",
-    "force_update": true
-  },
-  "sequence": ["notification", "update", "maintenance"],
-  "last_updated": "2025-10-07T15:15:00Z"
+"maintenance": {
+"enabled": false,
+"message": "🛠️ We’re currently under maintenance. Please try again later.",
+"force_close": true
+},
+"notification": {
+"enabled": true,
+"title": "📢 System Notification",
+"message": "This is a test notification to check if the system is working correctly. Please press OK to continue.",
+"button_text": "OK"
+},
+"update": {
+"enabled": true,
+"title": "🚀 Critical Update Required!",
+"message": "A critical update is available.",
+"version": 1,
+"update_url": "https://github.com/your-username/your-repo/releases/download/v1.0/app.apk",
+"force_update": true
+},
+"sequence": ["notification", "update", "maintenance"],
+"last_updated": "2025-10-07T15:15:00Z"
 }
