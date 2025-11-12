@@ -7,7 +7,7 @@
   "notification": {
     "enabled": true,
     "title": "📢 System Notification",
-    "message": "Welcome to Omniscient News! If you face any problems while using it, please let us know via feedback.",
+    "message": "Welcome to Omnisent News! If you face any problems while using it, please let us know via feedback.",
     "button_text": "OK"
   },
   "update": {
@@ -19,5 +19,5 @@
     "force_update": false
   },
   "sequence": ["notification", "update", "maintenance"],
-  "last_updated": "2025-11-12T18:36:00Z"
+  "last_updated": "2025-11-13T01:07:02Z"
 }
