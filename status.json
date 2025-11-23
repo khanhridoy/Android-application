@@ -11,7 +11,7 @@
     "button_text": "OK"
   },
   "update": {
-    "enabled": false,
+    "enabled": true,
     "title": "🚀 Critical Update Required!",
     "message": "Omnisent News v1.1 is here!\n\n• Expanded Source Library: Now featuring Somoy News, Manab Zamin, and ABP Ananda, complete with full category tabs for comprehensive browsing.\n• Organized Interface: Separate tabs for Bangladesh and International news.\n• Intelligent Audio Engine: Microsoft & Google Natural Voices with Auto-Language Detection.\n• Enhanced Utility: One-tap full article copying and flexible sharing options.\n• Improved Stability: Faster loading and smoother navigation.\n\nUpdate now to experience the difference!",
     "version": 2,
@@ -23,5 +23,5 @@
     "update",
     "maintenance"
   ],
-  "last_updated": "2025-11-23T10:40:00Z"
+  "last_updated": "2025-11-23T10:30:00Z"
 }
