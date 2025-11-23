@@ -13,11 +13,15 @@
   "update": {
     "enabled": true,
     "title": "🚀 Critical Update Required!",
-    "message": "A new version is available! This update includes bug fixes and performance improvements to enhance your experience. Please update now.",
-    "version": 1,
-    "update_url": "https://github.com/khanhridoy/Android-application/releases/download/V2/app-debug-10.apk",
-    "force_update": false
+    "message": "Omnisent News v1.1 is here!\n\n• Expanded Source Library: Now featuring Somoy News, Manab Zamin, and ABP Ananda, complete with full category tabs for comprehensive browsing.\n• Organized Interface: Separate tabs for Bangladesh and International news.\n• Intelligent Audio Engine: Microsoft & Google Natural Voices with Auto-Language Detection.\n• Enhanced Utility: One-tap full article copying and flexible sharing options.\n• Improved Stability: Faster loading and smoother navigation.\n\nUpdate now to experience the difference!",
+    "version": 2,
+    "update_url": "https://github.com/omnisent-official/Omnisent-News/releases/download/V1.1/Omnisent.News.V1.1.apk",
+    "force_update": true
   },
-  "sequence": ["notification", "update", "maintenance"],
-  "last_updated": "2025-11-14T01:00:33Z"
+  "sequence": [
+    "notification",
+    "update",
+    "maintenance"
+  ],
+  "last_updated": "2025-11-23T10:30:00Z"
 }
