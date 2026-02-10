@@ -7,15 +7,15 @@
   "notification": {
     "enabled": true,
     "title": "📢 Welcome to v1.2 Beta",
-    "message": "You are using Omnisent News Beta v1.2. Great news! You can now access ALL main sections and sub-sections of Prothom Alo and Kaler Kantho flawlessly. As this is a beta version, please report any issues via the Feedback option.",
+    "message": "You are currently using Omnisent News v1.2 Beta. All major sections and sub-sections of Prothom Alo and Kaler Kantho are now fully accessible with improved stability and performance. As this is still a beta release, we appreciate your feedback — please report any issues through the Feedback option to help us improve your experience.",
     "button_text": "OK"
   },
   "update": {
     "enabled": true,
     "title": "🚀 Big Update: Omnisent News v1.2 Beta",
-    "message": "We have fixed major issues and unlocked full access!\n\n• ✅ Full Access to Papers: You can now browse ALL Main Sections and Sub-sections of Prothom Alo and Kaler Kantho without any errors.\n• 🔊 Crystal Clear Audio: We have switched to Google TTS. Now enjoy smooth news reading in both Bangla and English.\n• 🌍 International News: BBC News source has been added.\n\nThis version (v1.2 Beta) is much more stable. Please update now to get all the sections!",
+    "message": "We’ve introduced significant improvements and performance enhancements in this release.\n\n• ✅ Expanded Access: Seamlessly browse all main sections and sub-sections of Prothom Alo and Kaler Kantho without interruptions.\n• 🔊 Enhanced Audio Experience: Integrated Google TTS for clearer, smoother news playback in both Bangla and English.\n• 🌍 New Source Added: BBC News is now available for international coverage.\n\nVersion v1.2 Beta delivers a more stable and refined experience. Please update now to enjoy the latest improvements.",
     "version": 3,
-    "update_url": "https://github.com/khanhridoy/Android-application/releases/download/V3/Omnisent.News.v1.2.apk",
+    "update_url": "https://github.com/khanhridoy/Android-application/releases/download/V1.2/omnisent.news.apk",
     "force_update": true
   },
   "sequence": [
@@ -23,5 +23,5 @@
     "notification",
     "maintenance"
   ],
-  "last_updated": "2026-02-11T10:00:00Z"
+  "last_updated": "2026-02-10T18:25:00+06:00"
 }
