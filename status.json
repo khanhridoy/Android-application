@@ -7,7 +7,7 @@
   "notification": {
     "enabled": true,
     "title": "📢 Welcome to v1.2 Beta",
-    "message": "You are currently using Omnisent News v1.2 Beta. All major sections and sub-sections of Prothom Alo and Kaler Kantho are now fully accessible with improved stability and performance. As this is still a beta release, we appreciate your feedback — please report any issues through the Feedback option to help us improve your experience.",
+    "message": "You are using Omnisent News v1.2 Beta. All main sections of Prothom Alo and Kaler Kantho are now fully accessible. As this is a beta release, please share your feedback if you notice any issues.",
     "button_text": "OK"
   },
   "update": {
@@ -15,7 +15,7 @@
     "title": "🚀 Big Update: Omnisent News v1.2 Beta",
     "message": "We’ve introduced significant improvements and performance enhancements in this release.\n\n• ✅ Expanded Access: Seamlessly browse all main sections and sub-sections of Prothom Alo and Kaler Kantho without interruptions.\n• 🔊 Enhanced Audio Experience: Integrated Google TTS for clearer, smoother news playback in both Bangla and English.\n• 🌍 New Source Added: BBC News is now available for international coverage.\n\nVersion v1.2 Beta delivers a more stable and refined experience. Please update now to enjoy the latest improvements.",
     "version": 3,
-    "update_url": "https://github.com/khanhridoy/Android-application/releases/download/V1.2/omnisent.news.apk",
+    "update_url": "https://github.com/khanhridoy/Android-application/releases/download/V3/Omnisent.News.V1.2.Beta.apk",
     "force_update": true
   },
   "sequence": [
@@ -23,5 +23,5 @@
     "notification",
     "maintenance"
   ],
-  "last_updated": "2026-02-10T18:25:00+06:00"
+  "last_updated": "2026-02-10T20:10:00+06:00"
 }
