@@ -15,7 +15,7 @@
     "title": "🚀 Big Update: Omnisent News v1.2 Beta",
     "message": "We have fixed major issues and unlocked full access!\n\n• ✅ Full Access to Papers: You can now browse ALL Main Sections and Sub-sections of Prothom Alo and Kaler Kantho without any errors.\n• 🔊 Crystal Clear Audio: We have switched to Google TTS. Now enjoy smooth news reading in both Bangla and English.\n• 🌍 International News: BBC News source has been added.\n\nThis version (v1.2 Beta) is much more stable. Please update now to get all the sections!",
     "version": 3,
-    "update_url": "https://github.com/khanhridoy/Android-application/releases/download/V1.2/Omnisent.News.apk",
+    "update_url": "https://github.com/khanhridoy/Android-application/releases/download/V3/Omnisent.News.v1.2.apk",
     "force_update": true
   },
   "sequence": [
@@ -23,5 +23,5 @@
     "notification",
     "maintenance"
   ],
-  "last_updated": "2026-02-10T17:22:50+06:00"
+  "last_updated": "2026-02-11T10:00:00Z"
 }
